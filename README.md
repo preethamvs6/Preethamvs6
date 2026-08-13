@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00C853?style=for-the-badge)](https://preethamvs6.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00C853?style=for-the-badge)](https://preethamv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/preetham-v-731760264)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethamvs6@gmail.com)
 
@@ -42,7 +42,7 @@
 
 ### 🚀 Live Website
 
-👉 **https://preethamvs6.vercel.app**
+👉 **https://preethamv.vercel.app/**
 
 Explore my:
 
